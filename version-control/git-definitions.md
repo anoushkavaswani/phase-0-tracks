@@ -17,3 +17,5 @@ A commit is analogous to saving a file.  When you make a set of changes to a fil
 * What is a merge conflict?
 
 A merge conflict occurs when the commit has a change to be merged in one place but the current master has a change in the same place.  Git does not know which change to use.
+
+Making a few minor changes
