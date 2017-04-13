@@ -1,0 +1,23 @@
+#contact-info{
+	font-size: .8em;
+}
+
+.job{
+	background-color: #e9e5dc;
+	padding:20px;
+	border-radius: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.job:hover{
+	background-color: yellow;
+}
+
+.small-bullet{
+	font-size: .8em;
+}
+
+ul > li {
+	color:green;
+}
