@@ -1,0 +1,7 @@
+Ordering Dinner
+
+-If it is a Monday, Tuesday, Wednesday, Thursday or Friday
+    -Wait until it is 18:00 
+    - Open the DoorDash app
+    - Prompt the user to enter their option
+    - Place the order
